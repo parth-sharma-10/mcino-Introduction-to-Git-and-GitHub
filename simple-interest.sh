@@ -4,7 +4,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# <your Github username>
+# parth-sharma-10
 
 # Input:
 # p, principal amount
